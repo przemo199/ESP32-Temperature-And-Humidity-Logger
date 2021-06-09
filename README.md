@@ -1,4 +1,4 @@
-# ESP32 Temperature Logger
+# ESP32 Temperature And Humidity Logger
 
 This project uses ESP32 and DHT22 temperature and humidity sensor to store measurements in a Google spreadsheet.
 
