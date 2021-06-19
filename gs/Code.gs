@@ -12,7 +12,6 @@ function doGet(e) {
   } catch {
     Logger.log(err);
   }
-  
 }
 
 function saveValues(temperature, humidity) {
